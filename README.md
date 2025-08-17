@@ -1,9 +1,9 @@
-#Blinkit Real-Time Sales Dashboard Analysis Using Power BI
+Blinkit Real-Time Sales Dashboard Analysis Using Power BI
 
-##Project Title:
+Project Title:
 Real-Time Blinkit Sales Performance & Insights Dashboard-
 
-##Objective:
+Objective:
 To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. This is achieved by identifying key KPIs and creating interactive dashboards using Power BI, enabling stakeholders to monitor and make data-driven decisions.
 Project Workflow:
 
@@ -55,7 +55,7 @@ Generated actionable insights from each visualization.
  Business Requirement Overview:
 To analyze Blinkit's performance using key metrics and visual tools in Power BI. The aim was to uncover patterns in customer behavior, product performance, and outlet efficiency using the following KPIs:
 
-##KPI Metrics Tracked:
+KPI Metrics Tracked:
 1. Total Sales – Total revenue from all items sold.
 2. Average Sales – Revenue per sale on average.
 3. Number of Items – Total number of distinct items sold.
@@ -98,22 +98,22 @@ o	Metrics Included: Total Sales, Average Sales, Number of Items, Average Rating
 
 
 
- ##Tools & Technologies Used:
+Tools & Technologies Used:
 •	Power BI (Data Modeling, DAX, Visualization)
 •	Microsoft Excel (Initial data cleaning)
 •	Power Query (ETL Process)
 
-##Challenges Faced:
+Challenges Faced:
 •	Missing values in customer ratings required handling with median imputation.
 •	Standardizing multiple inconsistent fat content labels.
 •	Real-time refresh of data needed scheduled Power BI refresh setup.
 
-##Future Enhancements:
+Future Enhancements:
 •	Integrate real-time API for live sales tracking.
 •	Include customer demographics for segmentation analysis.
 •	Add forecasting models to predict future sales trends.
 •	Enable drill-through reports for outlet-level management.
 
-##Conclusion:
+Conclusion:
 This Blinkit Dashboard project provided a powerful visual overview of sales and customer behavior across outlets. It helped derive meaningful insights that can be used for inventory planning, marketing strategies, and customer satisfaction improvement. Power BI enabled the creation of an interactive, scalable, and visually engaging reporting solution for real-time decision-
 
